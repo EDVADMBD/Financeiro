@@ -13,6 +13,10 @@ Em tempos de crise, a atuação dessa área se torna ainda mais estratégica, pe
 
 📊 No fim, a solidez financeira é o que permite que uma empresa transforme planos em realidade.
 
+Estas são apenas algumas das principais fontes de receita possíveis. As empresas podem ter uma ou várias fontes de receita, dependendo do seu modelo de negócios e da estratégia de crescimento.
+
+
+
 
 
 
