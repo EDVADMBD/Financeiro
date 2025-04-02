@@ -15,6 +15,9 @@ Em tempos de crise, a atuação dessa área se torna ainda mais estratégica, pe
 
 Estas são apenas algumas das principais fontes de receita possíveis. As empresas podem ter uma ou várias fontes de receita, dependendo do seu modelo de negócios e da estratégia de crescimento.
 
+Veja o projeto aqui:
+https://github.com/EDVADMBD/Financeiro/blob/main/Finan%C3%A7as.ipynb
+
 
 
 
