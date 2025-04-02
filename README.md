@@ -18,6 +18,10 @@ Estas são apenas algumas das principais fontes de receita possíveis. As empres
 Veja o projeto aqui:
 https://github.com/EDVADMBD/Financeiro/blob/main/Finan%C3%A7as.ipynb
 
+Veja o projeto em power BI:
+
+https://app.powerbi.com/groups/me/reports/56bfe403-aba5-4120-bc78-d40218cc2e03/ReportSection?language=pt-BR&experience=power-bi
+
 
 
 
