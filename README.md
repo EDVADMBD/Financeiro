@@ -1,5 +1,8 @@
 # A Função da Área Financeira na Empresa
 
+<img width="293" alt="image" src="https://github.com/user-attachments/assets/ae78383f-4c70-4158-9ef8-22aed9e5c8da" />
+
+
 Dentro de uma empresa, a área financeira funciona como o eixo central que garante estabilidade e crescimento sustentável. Seu principal objetivo é administrar os recursos financeiros, assegurando que a organização tenha capital suficiente para operar, investir e expandir.
 
 Entre suas funções essenciais, está o controle do fluxo de caixa, que monitora entradas e saídas de dinheiro para evitar problemas de liquidez. Além disso, a gestão financeira cuida do planejamento orçamentário, definindo estratégias para otimizar custos e maximizar lucros.
